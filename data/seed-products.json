@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0001",
+    "name": "Bottled Water 500ml",
+    "sku": "0001",
+    "barcode": "100000001",
+    "category": "Beverages",
+    "price": 1.25,
+    "stock": 50,
+    "image": "/images/water.jpg"
+  },
+  {
+    "id": "0002",
+    "name": "Croissant",
+    "sku": "0002",
+    "barcode": "100000002",
+    "category": "Bakery",
+    "price": 2.5,
+    "stock": 30,
+    "image": "/images/crossaint.jpeg"
+  },
+  {
+    "id": "0003",
+    "name": "Banana (per lb)",
+    "sku": "0003",
+    "barcode": "100000003",
+    "category": "Produce",
+    "price": 0.69,
+    "stock": 100,
+    "image": "/images/bunch-bananas-6175887.jpg.webp"
+  },
+  {
+    "id": "0004",
+    "name": "Whole Milk 1L",
+    "sku": "0004",
+    "barcode": "100000004",
+    "category": "Dairy",
+    "price": 3.1,
+    "stock": 40,
+    "image": "/images/milk.jpeg"
+  },
+  {
+    "id": "0005",
+    "name": "Potato Chips",
+    "sku": "0005",
+    "barcode": "100000005",
+    "category": "Snacks",
+    "price": 2.99,
+    "stock": 25,
+    "image": "/images/Lays_XL_Classic_Laydown.png"
+  },
+  {
+    "id": "0006",
+    "name": "Coffee Beans 250g",
+    "sku": "0006",
+    "barcode": "100000006",
+    "category": "Beverages",
+    "price": 6.75,
+    "stock": 20,
+    "image": "/images/coffee.jpeg"
+  },
+  {
+    "id": "0007",
+    "name": "Dish Soap 750ml",
+    "sku": "0007",
+    "barcode": "100000007",
+    "category": "Household",
+    "price": 3.45,
+    "stock": 35,
+    "image": "/images/soap.jpg"
+  },
+  {
+    "id": "0008",
+    "name": "USB-C Cable 1m",
+    "sku": "0008",
+    "barcode": "100000008",
+    "category": "Electronics",
+    "price": 8.99,
+    "stock": 15,
+    "image": "/images/usb-c.jpeg"
+  }
+]
